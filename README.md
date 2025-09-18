@@ -1,5 +1,5 @@
 # CPUns
-Just a list of computer puns jokes
+Just a list of computer puns & jokes
 
 - Which instruction plays soccer as a defender? Writeback.
 - - How does memory get paid? In cache.
